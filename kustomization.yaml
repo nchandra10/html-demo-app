@@ -4,4 +4,4 @@ resources:
 
 images:
   - name: ankurnema/html-app
-    newTag: latest
+    newTag: 0.0.1
