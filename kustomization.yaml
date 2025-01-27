@@ -4,4 +4,4 @@ resources:
 
 images:
   - name: deepaks374/html-app
-    newTag: latest
+    newTag: class_version_27_jan
