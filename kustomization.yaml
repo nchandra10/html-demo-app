@@ -3,5 +3,5 @@ resources:
   - service.yaml
 
 images:
-  - name: ankurnema/html-app
+  - name: deepaks374/html-app
     newTag: 0.0.1
