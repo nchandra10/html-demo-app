@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: .
-    repoURL: https://github.com/deepaks374/html-demo-app.git
+    repoURL: https://github.com/nchandra10/html-demo-app.git
     targetRevision: main
   syncPolicy:
     automated:
