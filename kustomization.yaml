@@ -3,5 +3,5 @@ resources:
   - service.yaml
 
 images:
-  - name: deepaks374/html-app
-    newTag: class_version_27_jan
+  - name: nitincc10/html-app
+    newTag: argocd-jenkins-job
